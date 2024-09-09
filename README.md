@@ -46,6 +46,6 @@
 > #### **$2** add the file minify_ScreenEdit.js to the folder with the html file
 
 
-#unfortunately I lost the code
+# unfortunately I lost the code
 
 
