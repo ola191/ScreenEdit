@@ -46,12 +46,6 @@
 > #### **$2** add the file minify_ScreenEdit.js to the folder with the html file
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/) , The software is available under the MIT license. This means that you can use, modify, and distribute it without restriction.
-
-## References
- - [Main Website](https://nomartnotes.eu)
- - [Profile Github](https://github.com/ola191)
+#unfortunately I lost the code
 
 
